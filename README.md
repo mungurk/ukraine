@@ -1,13 +1,6 @@
 http://33kanal.com/
 http://www.abyznewslinks.com/
-http://www.abyznewslinks.com/seara.htm
-http://www.abyznewslinks.com/admod.htm
-http://www.abyznewslinks.com/resou.htm
-http://www.abyznewslinks.com/about.htm
-http://www.abyznewslinks.com/contc.htm
-http://www.abyznewslinks.com/europ.htm
-http://www.abyznewslinks.com/easeu.htm
-http://www.agroperspectiva.com/en/
+\http://www.agroperspectiva.com/en/
 http://www.agroperspectiva.com/ru/
 http://www.alushta-vestnik.com/
 http://www.apk-inform.com/en
